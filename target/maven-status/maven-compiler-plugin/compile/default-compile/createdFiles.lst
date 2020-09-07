@@ -1,0 +1,7 @@
+Controller\ProductController.class
+model\Product.class
+Controller\LogoutController.class
+Controller\ForbiddenException.class
+Controller\MainController.class
+Controller\SecurityConfig.class
+model\ProductService.class
